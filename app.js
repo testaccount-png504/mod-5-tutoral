@@ -2,7 +2,7 @@ const express = require("express")
 
 const app = express()
 
-const router = express.router()
+const router = express.Router()
 
 //app.listen(3000,function(){
    // console.log("listing on port 4000")
